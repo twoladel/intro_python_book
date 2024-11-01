@@ -1,0 +1,11 @@
+obj = 'ABcd'         reassignment
+obj.upper()          reassignment #neither
+obj = obj.lower()    reassignment
+print(len(obj))      neither
+obj = list(obj)      reassignment
+obj.pop()            mutation
+obj[2] = 'X'         mutation
+obj.sort()           neither      #mutation
+set(obj)             reassignment #neither because this is creating a whole
+new object. 
+obj = tuple(obj)     reassignment
