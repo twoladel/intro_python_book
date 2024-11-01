@@ -1,0 +1,9 @@
+Exercise 4: classify following potential class names
+
+    1. index: non-idiomatic - lower case 
+    2. CatName: idiomatic
+    3. Lazy_Dog: non-idiomatic - underscore
+    5. 1ST: illegal  starts with a digit
+    6. operand2: non-idiomatic lower case
+    7. BigNumber3: idiomatic 
+    8. ∏i : non-idiomatic because ∏ is not an ASCII character
