@@ -1,0 +1,12 @@
+Exercise 3: classify following potential contant variable names
+
+
+
+    1. index: non-idiomatic - lower case 
+    2. CatName: non-idiomatic lower case
+    3. snake_case: non-idiomatic lower case
+    4. LAZY_DOG3: idiomatic 
+    5. 1ST: illegal  starts with a digit
+    6. operand2: non-idiomatic lower case
+    7. BIG_NUMBER: idiomatic 
+    8. π : non-idiomatic because π is not an ASCII character
