@@ -1,0 +1,16 @@
+Exercise 2: classify following potential function names
+
+They are the same as exercise 1 because functions and variables both use
+snake_case naming convention.
+
+    1. index: idiomatic
+    2. CatName: non-idiomatic because it has capitalized letters, would be
+    idiomatic if it were a class name.
+    3. lazy_dog: idiomatic
+    4. quick_Fox: non-idiomatic because 'Fox' is capitalized. This identifier
+    is a mix of snake_case and PascalCase
+    5. 1stCharacter: illegal because it starts with a digit
+    6. operand2: idiomatic
+    7. BIG_NUMBER: non-idiomatic because these are supposed to be non-contants,
+    otherwise this would be idiomatic for contants.
+    8. π : non-idiomatic because π is not an ASCII character
